@@ -1,0 +1,10 @@
+*.json
+*.png
+
+tweets-trend-chart.py
+prova.py
+
+py310/
+gauges/
+
+.DS_Store
